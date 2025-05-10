@@ -43,6 +43,8 @@ After opening the phishing email retrieved from Phishing Pot using Thunderbird, 
 
 <img src="Folder/phishing 5.PNG">
 
+<img src="Folder/phishing 6.PNG">
+
 
 
 
