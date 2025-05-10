@@ -63,11 +63,18 @@ After opening the phishing email retrieved from Phishing Pot using Thunderbird, 
 7. <h2>STEP 7: Check the address of the ip address of the sender on  abuseipdb</h2>
 
 Check the IP adress on abuseipdb.com to know if it has been reported for any malicious activities or not
+<img src="Folder/phishing 8.PNG">
+
+
+
+
 
 <h2>CONCLUSION</h2>
 
 Following a thorough inspection of the email headers, identification of authentication failures, and analysis using third-party threat intelligence tools, I have determined that this email is a confirmed phishing attempt. It is designed to deceive recipients into clicking a potentially malicious link hosted on the 'devicetechie' domain. Both the domain and associated IP address display indicators commonly linked to phishing infrastructure.
 
 <h2>Report Prepared by:</h2>
+
 OGUNDOYIN SUNDAY MICHEAL
+
 SECURITY ANALYST
