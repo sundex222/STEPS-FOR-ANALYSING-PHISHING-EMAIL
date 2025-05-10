@@ -50,6 +50,7 @@ After opening the phishing email retrieved from Phishing Pot using Thunderbird, 
 
 
 5. <h2>STEP 5: Check return ip address</h2>
+<img src="Folder/phishing 7 header.PNG">
 
 
 6. <h2>STEP 6: Compare the return address to the from address, and if it doesn't match, this may be a signal too</h2>
