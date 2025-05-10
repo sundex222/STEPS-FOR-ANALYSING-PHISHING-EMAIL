@@ -41,6 +41,8 @@ It is also to check the email to know if it's pass or Fail
 After opening the phishing email retrieved from Phishing Pot using Thunderbird, you can analyze the links it contains by submitting them to public scanning services. Use tools like Urlscan.io, Symantec, VirusTotal, and PhishTank to examine the URLs. These platforms help determine whether the links are associated with phishing activity or malicious content, providing a clearer assessment of the threat.
 <img src="Folder/phishing 4.PNG">
 
+<img src="Folder/phishing 5.PNG">
+
 
 
 
