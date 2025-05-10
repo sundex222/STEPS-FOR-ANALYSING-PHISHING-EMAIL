@@ -72,7 +72,7 @@ Check the IP adress on abuseipdb.com to know if it has been reported for any mal
 
 <h2>CONCLUSION</h2>
 
-Following a thorough inspection of the email headers, identification of authentication failures, and analysis using third-party threat intelligence tools, I have determined that this email is a confirmed phishing attempt. It is designed to deceive recipients into clicking a potentially malicious link hosted on the 'devicetechie' domain. Both the domain and associated IP address display indicators commonly linked to phishing infrastructure.
+Following a thorough inspection of the email headers, identification of authentication failures, and analysis using third-party threat intelligence tools, I have determined that this email is a confirmed phishing attempt. It is designed to deceive recipients into clicking a potentially malicious link hosted on the 'devicetechie' domain. Both the domain and associated IP address display indicators commonly linked to phishing infrastructure, however there are no existing reports associated with this IP address in the AbuseIPDB database, perhaps, the absence of reports should not be interpreted as an indication of safety, particularly in light of the suspicious context.
 
 <h2>Report Prepared by:</h2>
 
