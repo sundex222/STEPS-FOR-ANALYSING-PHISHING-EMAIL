@@ -13,7 +13,7 @@ Therefore :
 
 
 
-1. STEP 1: Download the emil on a sandbox or virtual mchine
+1. <h2>STEP 1: Download the emil on a sandbox or virtual mchine</h2>
 
 If you receive a phishing email in your inbox or spam folder, avoid clicking on any links, as doing so could expose your system to attackers. Instead, consider safely downloading the email and analyzing it within a secure virtual machine environment.
 
