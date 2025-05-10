@@ -21,10 +21,8 @@ If you receive a phishing email in your inbox or spam folder, avoid clicking on 
 2. <H2>STEP 2: Analyze the url with tools like symante.bluecoat.com, urlsan.io, virustotal, phishtank</H2>
 
 You can download sample phishing emails from a repository called Phishing Pot, which is available on GitHub. Phishing Pot contains real phishing emails that have been reported and shared for educational and research purposes. To access it, simply search for 'Phishing Pot GitHub' on Google. Once you find the repository, select an email sample and use your virtual machine to download and analyze it safely.
+<img src="Folder/phishing 001.PNG">
 
-
-
-<img scr="Folder/phishing 001.PNG">
 3. <h2>STEP 3: Analyze the email headers</h2>
 
 To analyze the sample email you downloaded from Phishing Pot, install Mozilla Thunderbird on your virtual machine. Thunderbird functions as an email client, allowing you to open and view the phishing email in an environment that closely resembles a real inbox. This helps simulate a realistic email interaction for safer analysis.
