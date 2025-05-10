@@ -13,20 +13,20 @@ Therefore :
 
 
 
-1. STEP 1:Download the emil on a sandbox or virtual mchine
+1. STEP 1: Download the emil on a sandbox or virtual mchine
 
 If you receive a phishing email in your inbox or spam folder, avoid clicking on any links, as doing so could expose your system to attackers. Instead, consider safely downloading the email and analyzing it within a secure virtual machine environment.
 
-2. STEP 2:Analyze the url with tools likesymante.bluecoat.com/ urlsan.io/ virustotal/ phishtank
+2. STEP 2: Analyze the url with tools likesymante.bluecoat.com/ urlsan.io/ virustotal/ phishtank
 
 You can download sample phishing emails from a repository called Phishing Pot, which is available on GitHub. Phishing Pot contains real phishing emails that have been reported and shared for educational and research purposes. To access it, simply search for 'Phishing Pot GitHub' on Google. Once you find the repository, select an email sample and use your virtual machine to download and analyze it safely.
 
 
-3. STEP 3:Analyze the email headers
+3. STEP 3: Analyze the email headers
 
 To analyze the sample email you downloaded from Phishing Pot, install Mozilla Thunderbird on your virtual machine. Thunderbird functions as an email client, allowing you to open and view the phishing email in an environment that closely resembles a real inbox. This helps simulate a realistic email interaction for safer analysis.
 
-4. STEP 4:Check the spf record, if it is equal to none or diabled, this may be a signal
+4. STEP 4: Check the spf record, if it is equal to none or diabled, this may be a signal
 
 It is also to check the email to know if it's pass or Fail
 
