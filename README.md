@@ -29,6 +29,8 @@ You can download sample phishing emails from a repository called Phishing Pot, w
 
 To analyze the sample email you downloaded from Phishing Pot, install Mozilla Thunderbird on your virtual machine. Thunderbird functions as an email client, allowing you to open and view the phishing email in an environment that closely resembles a real inbox. This helps simulate a realistic email interaction for safer analysis.
 
+<img scr="Folder/phishing 2.PNG">
+
 4. <h2>STEP 4: Check the spf record, if it is equal to none or diabled, this may be a signal</h2>
 
 It is also to check the email to know if it's pass or Fail
