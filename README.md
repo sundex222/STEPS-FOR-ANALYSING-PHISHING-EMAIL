@@ -17,36 +17,36 @@ Therefore :
 
 If you receive a phishing email in your inbox or spam folder, avoid clicking on any links, as doing so could expose your system to attackers. Instead, consider safely downloading the email and analyzing it within a secure virtual machine environment.
 
-2. STEP 2: Analyze the url with tools likesymante.bluecoat.com/ urlsan.io/ virustotal/ phishtank
+2. <H2>STEP 2: Analyze the url with tools likesymante.bluecoat.com/ urlsan.io/ virustotal/ phishtank</H2>
 
 You can download sample phishing emails from a repository called Phishing Pot, which is available on GitHub. Phishing Pot contains real phishing emails that have been reported and shared for educational and research purposes. To access it, simply search for 'Phishing Pot GitHub' on Google. Once you find the repository, select an email sample and use your virtual machine to download and analyze it safely.
 
 
-3. STEP 3: Analyze the email headers
+3. <h2>STEP 3: Analyze the email headers</h2>
 
 To analyze the sample email you downloaded from Phishing Pot, install Mozilla Thunderbird on your virtual machine. Thunderbird functions as an email client, allowing you to open and view the phishing email in an environment that closely resembles a real inbox. This helps simulate a realistic email interaction for safer analysis.
 
-4. STEP 4: Check the spf record, if it is equal to none or diabled, this may be a signal
+4. <h2>STEP 4: Check the spf record, if it is equal to none or diabled, this may be a signal</h2>
 
 It is also to check the email to know if it's pass or Fail
 
 After opening the phishing email retrieved from Phishing Pot using Thunderbird, you can analyze the links it contains by submitting them to public scanning services. Use tools like Urlscan.io, Symantec, VirusTotal, and PhishTank to examine the URLs. These platforms help determine whether the links are associated with phishing activity or malicious content, providing a clearer assessment of the threat.
 
 
-5. STEP 5:Check return address
+5. <h2>STEP 5: Check return address</h2>
 
 
-6. STEP 6: Compare the return address to the from address, and if it doesn't match, this may be a signal too
+6. <h2>STEP 6: Compare the return address to the from address, and if it doesn't match, this may be a signal too</h2>
 
 
-7. STEP 7: Check the address of the ip address of the sender on  abuseipdb
+7. <h2>STEP 7: Check the address of the ip address of the sender on  abuseipdb</h2>
 
 Check the IP adress on abuseipdb.com to know if it has been reported for any malicious activities or not
 
-CONCLUSION
+<h2>CONCLUSION</h2>
 
 Following a thorough inspection of the email headers, identification of authentication failures, and analysis using third-party threat intelligence tools, I have determined that this email is a confirmed phishing attempt. It is designed to deceive recipients into clicking a potentially malicious link hosted on the 'devicetechie' domain. Both the domain and associated IP address display indicators commonly linked to phishing infrastructure.
 
-Report Prepared by:
+<h2>Report Prepared by:</h2>
 OGUNDOYIN SUNDAY MICHEAL
 SECURITY ANALYST
