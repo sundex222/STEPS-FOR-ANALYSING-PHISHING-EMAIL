@@ -65,6 +65,7 @@ After opening the phishing email retrieved from Phishing Pot using Thunderbird, 
 Check the IP adress on abuseipdb.com to know if it has been reported for any malicious activities or not
 <img src="Folder/phishing 8.PNG">
 
+<img src="Folder/phishing 9.PNG">
 
 
 
